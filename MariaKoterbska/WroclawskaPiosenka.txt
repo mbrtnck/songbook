@@ -12,7 +12,7 @@ I płynie z piosenką do ciebie               a G
     Tu przechodnia uśmiechem witają         C F
     Dzieci, kwiaty i każdy dom              C D G
     Na przystankach nucą słowiki,           F C
-    (dźwięczy śpiewem stary park)           G7 C
+    (dźwięczy śpiewem stary park)*          G7 C
     Przez Sępolno, Zalesie i Krzyki         C F
     Niesie melodię wrocławski wiatr         C G C
 
@@ -29,3 +29,5 @@ Dziewczyna zaśpiewa przy pracy              a G
     (dźwięczy śpiewem stary park)           G7 C    |
     Przez Sępolno, Zalesie i Krzyki         C F     |
     Niesie melodię wrocławski wiatr         C G C   |
+
+* zamiast słów można zagwizdać melodię
