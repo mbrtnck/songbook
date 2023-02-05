@@ -163,7 +163,7 @@ E  -|-o-|---|---|-
 
 ## Copyright
 
-Unless explicitely stated otherwise, I am not the author of the songs
+Unless explicitely stated otherwise, I'm not the author of the songs
 presented here. I also don't claim any rights for the corresponding
 chord sequences nor ASCII-art diagrams. I just gathered them here for my
 own convenience. Feel free to use all the goods as you need.
