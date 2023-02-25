@@ -17,11 +17,11 @@ picture.
 #### Different notations
 
 ```
+German:     C    Cis  D    Dis  E    F    Fis  G    Gis  A    B    H
+                 Des       Es             Ges       As     Ais/Hes
+
 English:    C    C#   D    D#   E    F    F#   G    G#   A    A#   B
                  Db        Eb             Gb        Ab        Bb
-
-German:     C    Cis  D    Dis  E    F    Fis  G    Gis  A    Ais  H
-                 Des       Es             Ges       As        B
 
 Neo-Latin:  Do   Do#  Re   Re#  Mi   Fa   Fa#  Sol  Sol# La   La#  Si
                  Reb       Mib            Solb      Lab       Sib
@@ -40,6 +40,8 @@ ________________________________________________________________________________
  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 
+    Cis Dis     Fis Gis  B      Cis Dis     Fis Gis  B      Cis Dis     Fis Gis
+
    C   D   E   F   G   A   H   C   D   E   F   G   A   H   C   D   E   F   G
 
           6th         5th         4th         3rd     2nd         1st
@@ -48,12 +50,12 @@ _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
 #### Notes on a guitar fretboard
 
 ```
-E  ||--F--|--F#-|--G--|--G#-|--A--|--A#-|--H--|--C--|--C#-|--D--|--D#-|--E--|---
-H  ||--C--|--C#-|--D--|--D#-|--E--|--F--|--F#-|--G--|--G#-|--A--|--A#-|--H--|---
-G  ||--G#-|--A--|--A#-|--H--|--C--|--C#-|--D--|--D#-|--E--|--F--|--F#-|--G--|---
-D  ||--D#-|--E--|--F--|--F#-|--H--|--G#-|--A--|--A#-|--H--|--C--|--C#-|--D--|---
-A  ||--A#-|--H--|--C--|--C#-|--D--|--D#-|--E--|--F--|--F#-|--G--|--G#-|--A--|---
-E  ||--F--|--F#-|--G--|--G#-|--A--|--A#-|--H--|--C--|--C#-|--D--|--D#-|--E--|---
+E  ||--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|---
+H  ||--C--|-Cis-|--D--|-Dis-|--E--|--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|---
+G  ||-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|--F--|-Fis-|--G--|---
+D  ||-Dis-|--E--|--F--|-Fis-|--H--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|---
+A  ||--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|--F--|-Fis-|--G--|-Gis-|--A--|---
+E  ||--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|---
                    *           *           *           *                * *
 ```
 
@@ -119,18 +121,18 @@ E x||---|---|---|-
       |  1    2    3    4    5    6    7    8    9    10   11   12
 ------------------------------------------------------------------
       |
-s  E  |  F    F#   G    G#   A    A#   H    C    C#   D    D#   E
+s  E  |  F    Fis  G    Gis  A    B    H    C    Cis  D    Dis  E
 h     |
-a  e  |  f    f#   g    g#   a    a#   h    c    c#   d    d#   e
+a  e  |  f    fis  g    gis  a    b    h    c    cis  d    dis  e
 p     |
-e  E7 |  F7   F7#  G7   G7#  A7   A7#  H7   C7   C7#  D7   D7#  E7
+e  E7 |  F7   Fis7 G7   Gis7 A7   B7   H7   C7   Cis7 D7   Dis7 E7
       |
       |
-s  A  |  A#   H    C    C#   D    D#   E    F    F#   G    G#   A
+s  A  |  B    H    C    Cis  D    Dis  E    F    Fis  G    Gis  A
 h     |
-a  a  |  a#   h    c    c#   d    d#   e    f    f#   g    g#   a
+a  a  |  b    h    c    cis  d    dis  e    f    fis  g    gis  a
 p     |
-e  A7 |  A7#  H7   C7   C7#  D7   D7#  E7   F7   F7#  G7   G7#  A7
+e  A7 |  B7   H7   C7   Cis7 D7   Dis7 E7   F7   Fis7 G7   Gis7 A7
 ```
 
 #### Power chords
