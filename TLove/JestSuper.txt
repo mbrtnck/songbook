@@ -2,7 +2,7 @@ T.Love
 "Jest super"
 1997
 
-E-moll, c-dur, a-moll, d-dur                        e C a D | x4
+E-moll, c-dur, a-moll, d-dur                        e C a D     | x4
 
 Popatrz na wspaniałe autostrady                     e C a D
 Na drogi, na których nie znajdziesz wybojów         e C a D
@@ -24,9 +24,9 @@ Kościół zaciekle broni najbiedniejszych             e C a D
 Bogaci są fajni i w miarę uczciwi                   e C a D
 Policja surowo karze złych przestępców              e C a D
 
-E-moll, c-dur, a-moll, d-dur                        e C a D | x2
+E-moll, c-dur, a-moll, d-dur                        e C a D     | x2
 
-    Jest super, jest super, więc o co ci chodzi?    e C a D | x2
-    Jest super, jest super, więc o co ci chodzi?    e C a D |
-    Więc o co ci chodzi? Jest super, jest super!    e C a D |
-    Więc o co ci chodzi? Jest super!                e C a D |
+    Jest super, jest super, więc o co ci chodzi?    e C a D     | x2
+    Jest super, jest super, więc o co ci chodzi?    e C a D     |
+    Więc o co ci chodzi? Jest super, jest super!    e C a D     |
+    Więc o co ci chodzi? Jest super!                e C a D     |
