@@ -1,10 +1,12 @@
 # songbook
 
-A collection of song lyrics along with guitar chords for single guitar
-accompaniment, in convenient, printer-friendly text format. Included
-guitar chords are my own interpretation based on what I hear and what I
-can play; and since I don't have any formal musical background, they may
-be slightly different than the original ones. You have been warned!
+A collection of song lyrics along with chords for single guitar
+accompaniment, served in convenient, printer-friendly text format.
+
+Included guitar chords are my own interpretation based on the mixture of
+what I can hear, what I found on the Internet, and what I'm able to
+play; and since I don't have any formal musical background, they may be
+slightly different than the original ones. You have been warned!
 
 **Note:** I use German notation, so the tone between *A* and *C* is *H*,
 and the semitone between *A* and *H* is *B*. See below for clear
@@ -17,11 +19,11 @@ picture.
 #### Different notations
 
 ```
-German:     C   Cis D   Dis E   F   Fis G   Gis A   B   H
-                Des     Es          Ges     As   Ais/Hes
+German:     C   Cis   D   Dis   E    F   Fis   G   Gis   A    B    H
+                Des       Es             Ges       As      Ais/Hes
 
-English:    C   C#  D   D#  E   F   F#  G   G#  A   A#  B
-(b = flat)      Db      Eb          Gb      Ab      Bb
+English:    C   C#    D   D#    E    F   F#    G   G#    A    A#   B
+(b = flat)      Db        Eb             Gb        Ab         Bb
 ```
 
 #### Guitar strings on a piano keyboard
