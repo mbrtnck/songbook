@@ -1,12 +1,12 @@
 # songbook
 
 A collection of song lyrics along with chords for single guitar
-accompaniment, served in convenient, printer-friendly text format.
+accompaniment; served in convenient, printer-friendly text format.
 
 Included guitar chords are my own interpretation based on the mixture of
 what I can hear, what I found on the Internet, and what I'm able to
 play; and since I don't have any formal musical background, they may be
-slightly different than the original ones. You have been warned!
+slightly different than the original ones. You've been warned!
 
 **Note:** I use German notation, so the tone between *A* and *C* is *H*,
 and the semitone between *A* and *H* is *B*. See below for clear
