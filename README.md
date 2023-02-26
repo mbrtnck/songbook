@@ -14,9 +14,7 @@ picture.
 
 ## Fundamentals of music theory for beginners
 
-### Notes
-
-#### Different notations
+### Different notations
 
 ```
 German:     C   Cis   D   Dis   E    F   Fis   G   Gis   A    B    H
@@ -26,7 +24,7 @@ English:    C   C#    D   D#    E    F   F#    G   G#    A    A#   B
 (b = flat)      Db        Eb             Gb        Ab         Bb
 ```
 
-#### Guitar strings on a piano keyboard
+### Guitar strings on a piano keyboard
 
 ```
 ________________________________________________________________________________
@@ -46,7 +44,7 @@ _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
           6th         5th         4th         3rd     2nd         1st
 ```
 
-#### Tones on a guitar fretboard
+### Tones on a guitar fretboard
 
 ```
 E  ||--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|---
@@ -165,6 +163,4 @@ E  -|-o-|---|---|-
 ## Copyright
 
 Unless explicitely stated otherwise, I'm not the author of the songs
-presented here. I also don't claim any rights for the corresponding
-chord sequences nor ASCII-art diagrams. I just gathered them here for my
-own convenience. Feel free to use all the goods as you need.
+presented here. I just gathered them here for my own convenience.
