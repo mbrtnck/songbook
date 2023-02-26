@@ -17,11 +17,11 @@ picture.
 #### Different notations
 
 ```
-German:       C    Cis  D    Dis  E    F    Fis  G    Gis  A    B    H
-                   Des       Es             Ges       As     Ais/Hes
+German:     C   Cis D   Dis E   F   Fis G   Gis A   B   H
+                Des     Es          Ges     As   Ais/Hes
 
-English:      C    C#   D    D#   E    F    F#   G    G#   A    A#   B
-                   Db        Eb             Gb        Ab        Bb
+English:    C   C#  D   D#  E   F   F#  G   G#  A   A#  B
+(b = flat)      Db      Eb          Gb      Ab      Bb
 ```
 
 #### Guitar strings on a piano keyboard
