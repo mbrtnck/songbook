@@ -46,7 +46,7 @@ _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
           6th         5th         4th         3rd     2nd         1st
 ```
 
-#### Notes on a guitar fretboard
+#### Tones on a guitar fretboard
 
 ```
 E  ||--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|---
