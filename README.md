@@ -42,7 +42,7 @@ _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
     Cis Dis     Fis Gis  B      Cis Dis     Fis Gis  B      Cis Dis     Fis Gis
 
    C   D   E   F   G   A   H   C   D   E   F   G   A   H   C   D   E   F   G
-
+           |           |           |           |       |           |
           6th         5th         4th         3rd     2nd         1st
 ```
 
