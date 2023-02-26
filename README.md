@@ -58,9 +58,9 @@ E  ||--F--|-Fis-|--G--|-Gis-|--A--|--B--|--H--|--C--|-Cis-|--D--|-Dis-|--E--|---
                    *           *           *           *                * *
 ```
 
-### Guitar chords
+## Guitar chords
 
-#### Open chords
+### Open chords
 
 ```
    C                       C7
@@ -112,7 +112,7 @@ A  ||---|-o-|---|-
 E x||---|---|---|-
 ```
 
-#### Barre chords
+### Barre chords
 
 ```
                                 bar on fret
@@ -134,7 +134,7 @@ p     |
 e  A7 |  B7   H7   C7   Cis7 D7   Dis7 E7   F7   Fis7 G7   Gis7 A7
 ```
 
-#### Power chords
+### Power chords
 
 ```
    C5 (3rd fret)           D5 (5th fret)           E5 (7th fret)
