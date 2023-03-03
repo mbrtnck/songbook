@@ -7,7 +7,8 @@ Included guitar chords are my own interpretation based on the mixture of
 what I can hear, what I found on the Internet, and what I'm able to play
 on my guitar. Since I don't have any formal musical background, the
 presented chord sequences may be slightly different than the original
-ones. You have been warned!
+ones. I gathered them here for my own convenience; help yourself if you
+need, but don't expect too much. You have been warned!
 
 **Note:** I use German notation, so the tone between *A* and *C* is *H*,
 and the semitone between *A* and *H* is *B*. See below for clear
@@ -164,4 +165,4 @@ E  -|-o-|---|---|-
 ## Copyright
 
 Unless explicitely stated otherwise, I'm not the author of the songs
-presented here. I just gathered them here for my own convenience.
+presented here, so I don't claim any rights to them.
